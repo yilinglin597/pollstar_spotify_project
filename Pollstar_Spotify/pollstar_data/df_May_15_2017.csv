@@ -1,0 +1,101 @@
+Count,ID,AvgGross,LastWeekAvgGross,AvgTixSold,LastWeekAvgTixSold,AvgTixPrice,LastWeekAvgTixPrice,Cities,LastWeekCities,LastWeek,ThisWeek,AgtName,WeekOfDate,ShowData,Artist,ArtistDetail_id,ArtistDetail_name,ArtistDetail_url
+1,100274,1959318,1959318.0,21681,21681.0,90.37,90.37,18,18.0,1,1,WME,/Date(1494831600000)/,True,Drake,39372,Drake,/artist/drake-39372
+2,100267,1458092,1647316.0,16402,18351.0,88.89,89.77,30,27.0,2,2,WME,/Date(1494831600000)/,True,Red Hot Chili Peppers,13471,Red Hot Chili Peppers,/artist/red-hot-chili-peppers-13471
+3,100264,1333261,,15483,,86.11,0.0,23,,New,3,Creative Artists Agency,/Date(1494831600000)/,True,Bon Jovi,47178,Bon Jovi,/artist/bon-jovi-47178
+4,100275,1088455,1088455.0,18089,18089.0,60.17,60.17,13,13.0,3,4,Creative Artists Agency,/Date(1494831600000)/,True,Olly Murs,137764,Olly Murs,/artist/olly-murs-137764
+5,100261,1036908,946913.0,18906,17447.0,54.84,54.27,24,33.0,4,5,WME,/Date(1494831600000)/,True,Trans-Siberian Orchestra,3779,Trans-Siberian Orchestra,/artist/trans-siberian-orchestra-3779
+6,100260,881391,900402.0,9038,9123.0,97.52,98.69,21,11.0,6,6,Creative Artists Agency,/Date(1494831600000)/,True,Stevie Nicks,7373,Stevie Nicks,/artist/stevie-nicks-7373
+7,100259,845561,828765.0,14284,14121.0,59.19,58.69,46,43.0,7,7,WME,/Date(1494831600000)/,True,Eric Church,36859,Eric Church,/artist/eric-church-36859
+8,100258,843787,940250.0,11000,12027.0,76.71,78.17,30,16.0,5,8,Creative Artists Agency,/Date(1494831600000)/,True,Ariana Grande,167474,Ariana Grande,/artist/ariana-grande-167474
+9,100269,814449,814449.0,15224,15224.0,53.5,53.5,12,12.0,8,9,WME,/Date(1494831600000)/,True,The Weeknd,168538,The Weeknd,/artist/the-weeknd-168538
+10,100255,729803,729803.0,11325,11325.0,64.44,64.44,14,14.0,9,10,Creative Artists Agency,/Date(1494831600000)/,True,Kings Of Leon,26370,Kings Of Leon,/artist/kings-of-leon-26370
+11,100254,723045,723045.0,11640,11640.0,62.11,62.11,13,13.0,11,11,Messina Touring Group,/Date(1494831600000)/,True,Blake Shelton,48310,Blake Shelton,/artist/blake-shelton-48310
+12,100253,648775,727466.0,11557,12580.0,56.13,57.83,31,22.0,10,12,Creative Artists Agency,/Date(1494831600000)/,True,Green Day,33284,Green Day,/artist/green-day-33284
+13,100252,618364,658037.0,6750,7175.0,91.6,91.71,16,17.0,12,13,ICM Partners (Comedy),/Date(1494831600000)/,True,Jerry Seinfeld,232705,Jerry Seinfeld,/artist/jerry-seinfeld-232705
+14,100263,582970,,7540,,77.31,0.0,13,,New,14,Creative Artists Agency,/Date(1494831600000)/,True,Journey,27980,Journey,/artist/journey-27980
+15,100249,549607,541939.0,11497,11540.0,47.8,46.96,33,33.0,13,15,Creative Artists Agency,/Date(1494831600000)/,True,Twenty One Pilots,146126,Twenty One Pilots,/artist/twenty-one-pilots-146126
+16,100248,524720,524720.0,13372,13372.0,39.24,39.24,12,12.0,14,16,Creative Artists Agency (Comedy),/Date(1494831600000)/,True,Jack Whitehall,229804,Jack Whitehall,/artist/jack-whitehall-229804
+17,100247,513277,524343.0,8217,8403.0,62.46,62.4,32,31.0,15,17,WME,/Date(1494831600000)/,True,"""The Illusionists""",226798,"""The Illusionists""",/artist/the-illusionists-226798
+18,100246,492058,492058.0,7430,7430.0,66.22,66.22,29,29.0,17,18,ICM Partners,/Date(1494831600000)/,True,Charlie Wilson,44603,Charlie Wilson,/artist/charlie-wilson-44603
+19,100257,461831,522278.0,9652,10573.0,47.85,49.4,29,13.0,16,19,Creative Artists Agency,/Date(1494831600000)/,True,Panic! At The Disco,16961,Panic! At The Disco,/artist/panic-at-the-disco-16961
+20,100244,443184,429840.0,9518,9229.0,46.56,46.57,28,29.0,19,20,Paradigm Talent Agency,/Date(1494831600000)/,True,The Lumineers,149243,The Lumineers,/artist/the-lumineers-149243
+21,100243,424565,435641.0,5250,5356.0,80.87,81.33,37,39.0,18,21,,/Date(1494831600000)/,True,André Rieu,51373,André Rieu,/artist/andr-rieu-51373
+22,100242,416592,416592.0,5936,5936.0,70.17,70.17,14,14.0,20,22,United Talent Agency,/Date(1494831600000)/,True,Sebastian Maniscalco,233099,Sebastian Maniscalco,/artist/sebastian-maniscalco-233099
+23,100240,374961,397676.0,4103,4032.0,91.38,98.61,20,14.0,21,23,Creative Artists Agency,/Date(1494831600000)/,True,Sting,7220,Sting,/artist/sting-7220
+24,100238,367375,367375.0,8043,8043.0,45.67,45.67,16,16.0,22,24,United Talent Agency,/Date(1494831600000)/,True,Craig David,43868,Craig David,/artist/craig-david-43868
+25,100237,307844,,7692,,40.02,0.0,14,,New,25,WME,/Date(1494831600000)/,True,Thomas Rhett,166349,Thomas Rhett,/artist/thomas-rhett-166349
+26,100236,299142,295644.0,5099,4985.0,58.66,59.3,25,23.0,24,26,Abhann Productions Ltd.,/Date(1494831600000)/,True,"""Riverdance""",233037,"""Riverdance""",/artist/riverdance-233037
+27,100235,298336,298336.0,7282,7282.0,40.96,40.96,19,19.0,23,27,Artist Group International,/Date(1494831600000)/,True,"Michael Flatley's ""Lord Of The Dance""",231948,"Michael Flatley's ""Lord Of The Dance""",/artist/michael-flatleys-lord-of-the-dance-231948
+28,100234,289329,286398.0,6406,6300.0,45.16,45.46,35,36.0,25,28,United Talent Agency,/Date(1494831600000)/,True,Jeff Dunham,232711,Jeff Dunham,/artist/jeff-dunham-232711
+29,100245,282700,282700.0,2772,2772.0,101.95,101.95,13,13.0,26,29,Creative Artists Agency (Comedy),/Date(1494831600000)/,True,Billy Crystal,232362,Billy Crystal,/artist/billy-crystal-232362
+30,100231,255653,255653.0,3519,3519.0,72.65,72.65,15,15.0,27,30,Creative Artists Agency,/Date(1494831600000)/,True,Maluma,201532,Maluma,/artist/maluma-201532
+31,100230,241421,241421.0,3780,3780.0,63.86,63.86,22,22.0,28,31,ICM Partners,/Date(1494831600000)/,True,"""Dancing With The Stars""",231510,"""Dancing With The Stars""",/artist/dancing-with-the-stars-231510
+32,100229,217777,217715.0,5915,5943.0,36.82,36.63,27,24.0,30,32,Creative Artists Agency,/Date(1494831600000)/,True,Brantley Gilbert,47392,Brantley Gilbert,/artist/brantley-gilbert-47392
+33,100228,214935,214935.0,2184,2184.0,98.38,98.38,12,12.0,31,33,WME,/Date(1494831600000)/,True,Steve Aoki ,72064,Steve Aoki,/artist/steve-aoki-72064
+34,100239,191675,189546.0,6733,6653.0,28.47,28.49,25,21.0,32,34, / Creative Artists Agency,/Date(1494831600000)/,True,"""Hits Deep Tour"" / TobyMac",0,"""Hits Deep Tour""",
+35,100225,176573,176573.0,4294,4294.0,41.12,41.12,14,14.0,33,35,WME,/Date(1494831600000)/,True,Lee Brice / Justin Moore,25666,Lee Brice,/artist/lee-brice-25666
+36,100224,173960,173960.0,2240,2240.0,77.66,77.66,11,11.0,34,36,APA,/Date(1494831600000)/,True,"Yes feat. Jon Anderson, Trevor Rabin, Rick Wakeman",212848,"Yes feat. Jon Anderson, Trevor Rabin, Rick Wakeman",/artist/yes-feat-jon-anderson-trevor-rabin-rick-wakeman-212848
+37,100222,165201,166474.0,10648,10635.0,15.51,15.65,43,42.0,36,37,Premier Productions,/Date(1494831600000)/,True,"""Winter Jam"" / Crowder",0,"""Winter Jam""",
+38,100220,159159,147280.0,2490,2329.0,63.9,63.23,12,16.0,39,38,United Talent Agency,/Date(1494831600000)/,True,Norah Jones,19918,Norah Jones,/artist/norah-jones-19918
+39,100219,150822,154831.0,4761,4937.0,31.67,31.36,26,24.0,37,39,Jeff Roberts & Associates,/Date(1494831600000)/,True,Casting Crowns,45571,Casting Crowns,/artist/casting-crowns-45571
+40,100218,148954,148954.0,1818,1818.0,81.89,81.89,13,13.0,38,40,Creative Artists Agency (Comedy),/Date(1494831600000)/,True,John Cleese,232775,John Cleese,/artist/john-cleese-232775
+41,100217,141979,141979.0,2348,2348.0,60.47,60.47,13,13.0,40,41,WME,/Date(1494831600000)/,True,Alton Brown,229815,Alton Brown,/artist/alton-brown-229815
+42,100216,136297,124849.0,2302,2069.0,59.2,60.33,25,37.0,43,42,WME,/Date(1494831600000)/,True,Mannheim Steamroller,22671,Mannheim Steamroller,/artist/mannheim-steamroller-22671
+43,100212,116792,116546.0,2182,2180.0,53.51,53.45,35,30.0,44,43,Creative Artists Agency (Comedy),/Date(1494831600000)/,True,Ron White,233071,Ron White,/artist/ron-white-233071
+44,100211,109333,138068.0,3452,4248.0,31.67,32.5,20,12.0,41,44,Paradigm Talent Agency,/Date(1494831600000)/,True,Dropkick Murphys,38721,Dropkick Murphys,/artist/dropkick-murphys-38721
+45,100210,103937,98647.0,2985,2804.0,34.81,35.18,13,12.0,49,45,Paradigm Talent Agency,/Date(1494831600000)/,True,Umphrey's McGee,3050,Umphrey's McGee,/artist/umphreys-mcgee-3050
+46,100221,103660,103660.0,1945,1945.0,53.28,53.28,30,30.0,46,46,WME,/Date(1494831600000)/,True,"""Brain Candy Live""",223029,"""Brain Candy Live""",/artist/brain-candy-live-223029
+47,100208,103578,103578.0,1497,1497.0,69.15,69.15,13,13.0,47,47,APA,/Date(1494831600000)/,True,Daniel O'Donnell,42611,Daniel O'Donnell,/artist/daniel-odonnell-42611
+48,100207,99566,100793.0,2799,2822.0,35.56,35.71,29,28.0,48,48,Circle Talent Agency,/Date(1494831600000)/,True,Excision,116453,Excision,/artist/excision-116453
+49,100206,95585,95585.0,1973,1973.0,48.44,48.44,14,14.0,50,49,United Talent Agency,/Date(1494831600000)/,True,Rodney Carrington,233053,Rodney Carrington,/artist/rodney-carrington-233053
+50,100205,94349,94349.0,2068,2068.0,45.62,45.62,11,11.0,51,50,APA,/Date(1494831600000)/,True,Paul Weller,16685,Paul Weller,/artist/paul-weller-16685
+51,100204,89885,89885.0,3085,3085.0,29.13,29.13,17,17.0,52,51,Paradigm Talent Agency,/Date(1494831600000)/,True,Run The Jewels,178957,Run The Jewels,/artist/run-the-jewels-178957
+52,100202,84724,84724.0,1607,1607.0,52.69,52.69,12,12.0,54,52,Columbia Artists Management,/Date(1494831600000)/,True,"Elvis Lives: ""The Ultimate Elvis Tribute Artist Event""",229250,"Elvis Lives: ""The Ultimate Elvis Tribute Artist Event""",/artist/elvis-lives-the-ultimate-elvis-tribute-artist-event-229250
+53,100200,78499,78499.0,1526,1526.0,51.42,51.42,32,32.0,56,53,WME,/Date(1494831600000)/,True,Rain - A Tribute To The Beatles,14395,Rain - A Tribute To The Beatles,/artist/rain-a-tribute-to-the-beatles-14395
+54,100199,77844,77844.0,1387,1387.0,56.09,56.09,12,12.0,57,54,Paradigm Talent Agency / ICM Partners,/Date(1494831600000)/,True,Lyle Lovett / John Hiatt,23604,Lyle Lovett,/artist/lyle-lovett-23604
+55,100198,75258,75258.0,1591,1591.0,47.3,47.3,19,19.0,58,55,Artist Group International,/Date(1494831600000)/,True,Tesla,5313,Tesla,/artist/tesla-5313
+56,100209,74237,74237.0,947,947.0,78.38,78.38,13,13.0,59,56,APA,/Date(1494831600000)/,True,Eddie Izzard,232570,Eddie Izzard,/artist/eddie-izzard-232570
+57,100196,69722,71709.0,1196,1224.0,58.26,58.57,14,15.0,60,57,Paradigm Talent Agency / The M.O.B. Agency,/Date(1494831600000)/,True,Pink Martini,15940,Pink Martini,/artist/pink-martini-15940
+58,100194,65998,63341.0,1921,1841.0,34.34,34.4,14,17.0,62,58,Paradigm Talent Agency,/Date(1494831600000)/,True,Home Free,187931,Home Free,/artist/home-free-187931
+59,100192,62511,62511.0,1643,1643.0,38.03,38.03,22,22.0,63,59,Asgard,/Date(1494831600000)/,True,Paul Carrack,16642,Paul Carrack,/artist/paul-carrack-16642
+60,100190,61265,60301.0,2202,2194.0,27.82,27.48,32,33.0,64,60,H2O Artist Agency,/Date(1494831600000)/,True,Newsboys,18695,Newsboys,/artist/newsboys-18695
+61,100189,56946,,1835,,31.02,0.0,11,,New,61,High Road Touring,/Date(1494831600000)/,True,St. Paul And The Broken Bones,178144,St. Paul And The Broken Bones,/artist/st-paul-and-the-broken-bones-178144
+62,100187,52346,52346.0,1842,1842.0,28.41,28.41,23,23.0,65,62,Premier Productions,/Date(1494831600000)/,True,Kari Jobe,162814,Kari Jobe,/artist/kari-jobe-162814
+63,100186,50763,50763.0,1686,1686.0,30.1,30.1,13,13.0,66,63,Creative Artists Agency,/Date(1494831600000)/,True,William Singe / Alex Aiono,206359,William Singe,/artist/william-singe-206359
+64,100184,50127,50127.0,1487,1487.0,33.7,33.7,13,13.0,67,64,The Billions Corporation,/Date(1494831600000)/,True,The Head And The Heart,139421,The Head And The Heart,/artist/the-head-and-the-heart-139421
+65,100183,49928,49928.0,1965,1965.0,25.4,25.4,23,23.0,68,65,United Talent Agency,/Date(1494831600000)/,True,Circa Survive,43942,Circa Survive,/artist/circa-survive-43942
+66,100181,46824,46599.0,1571,1551.0,29.79,30.03,29,32.0,70,66,APA,/Date(1494831600000)/,True,Skillet,9282,Skillet,/artist/skillet-9282
+67,100180,46600,46600.0,1684,1684.0,27.66,27.66,14,14.0,69,67,WME,/Date(1494831600000)/,True,AFI,52824,AFI,/artist/afi-52824
+68,100191,46456,46538.0,1385,1420.0,33.52,32.77,27,27.0,71,68,SRO Artists,/Date(1494831600000)/,True,Get The Led Out - American Led Zeppelin,34598,Get The Led Out - American Led Zeppelin,/artist/get-the-led-out-american-led-zeppelin-34598
+69,100178,46228,46228.0,1621,1621.0,28.51,28.51,16,16.0,72,69,Circle Talent Agency,/Date(1494831600000)/,True,Datsik,139930,Datsik,/artist/datsik-139930
+70,100177,45920,45920.0,1530,1530.0,30.01,30.01,11,11.0,73,70,United Talent Agency,/Date(1494831600000)/,True,Alter Bridge,52087,Alter Bridge,/artist/alter-bridge-52087
+71,100174,45109,,1518,,29.71,0.0,11,,New,71,SRO Artists,/Date(1494831600000)/,True,Dark Star Orchestra,41700,Dark Star Orchestra,/artist/dark-star-orchestra-41700
+72,100185,43770,43770.0,1487,1487.0,29.43,29.43,12,12.0,74,72,Mongrel Music,/Date(1494831600000)/,True,Lake Street Dive,86466,Lake Street Dive,/artist/lake-street-dive-86466
+73,100172,43540,39988.0,1713,1734.0,25.41,23.05,10,13.0,81,73,Creative Artists Agency,/Date(1494831600000)/,True,Dan + Shay,182463,Dan + Shay,/artist/dan-shay-182463
+74,100061,42796,42796.0,1542,1542.0,27.75,27.75,16,16.0,76,74,United Talent Agency,/Date(1494831600000)/,True,Falling In Reverse / Issues / Motionless In White,158558,Falling In Reverse,/artist/falling-in-reverse-158558
+75,100171,42600,42600.0,1203,1203.0,35.41,35.41,15,15.0,77,75,TKO / United Talent Agency,/Date(1494831600000)/,True,Anthrax,50693,Anthrax,/artist/anthrax-50693
+76,100170,41504,41504.0,1525,1525.0,27.2,27.2,11,11.0,78,76,Charles Dorris & Associates,/Date(1494831600000)/,True,Gaither Vocal Band,34866,Gaither Vocal Band,/artist/gaither-vocal-band-34866
+77,100169,41415,42980.0,1295,1320.0,31.96,32.54,33,28.0,75,77,Paradigm Talent Agency,/Date(1494831600000)/,True,Tech N9ne,5651,Tech N9ne,/artist/tech-n9ne-5651
+78,100179,41035,41035.0,1379,1379.0,29.74,29.74,11,11.0,80,78,Kosson Talent,/Date(1494831600000)/,True,Black Violin,77092,Black Violin,/artist/black-violin-77092
+79,100166,39736,39736.0,716,716.0,55.43,55.43,13,13.0,82,79,APA,/Date(1494831600000)/,True,Rickie Lee Jones / Madeleine Peyroux,12803,Rickie Lee Jones,/artist/rickie-lee-jones-12803
+80,100165,39056,39056.0,1390,1390.0,28.08,28.08,27,27.0,83,80,APA,/Date(1494831600000)/,True,Andrew McMahon in the Wilderness,51345,Andrew McMahon in the Wilderness,/artist/andrew-mcmahon-in-the-wilderness-51345
+81,100164,37964,37964.0,1327,1327.0,28.6,28.6,20,20.0,84,81,Paradigm Talent Agency,/Date(1494831600000)/,True,Mother Mother,69142,Mother Mother,/artist/mother-mother-69142
+82,100163,37715,37715.0,1811,1811.0,20.82,20.82,13,13.0,85,82,ARM Entertainment,/Date(1494831600000)/,True,Hairball,57360,Hairball,/artist/hairball-57360
+83,100162,37415,37078.0,1473,1452.0,25.4,25.53,17,14.0,86,83,Creative Artists Agency,/Date(1494831600000)/,True,Chonda Pierce,232474,Chonda Pierce,/artist/chonda-pierce-232474
+84,100173,36012,36012.0,1152,1152.0,31.26,31.26,16,16.0,87,84,Circle Talent Agency,/Date(1494831600000)/,True,Epica / Powerwolf,38016,Epica,/artist/epica-38016
+85,100160,34525,34724.0,1253,1271.0,27.53,27.31,15,16.0,89,85,United Talent Agency,/Date(1494831600000)/,True,Pierce The Veil,67472,Pierce The Veil,/artist/pierce-the-veil-67472
+86,100159,34474,35447.0,1211,1241.0,28.45,28.55,12,11.0,88,86,Partisan Arts,/Date(1494831600000)/,True,Railroad Earth,14379,Railroad Earth,/artist/railroad-earth-14379
+87,100158,33862,33862.0,1415,1415.0,23.93,23.93,27,27.0,90,87,Paradigm Talent Agency,/Date(1494831600000)/,True,Tchami,186976,Tchami,/artist/tchami-186976
+88,100157,33314,33314.0,999,999.0,33.33,33.33,25,25.0,91,88,The Feldman Agency,/Date(1494831600000)/,True,Matthew Good,22591,Matthew Good,/artist/matthew-good-22591
+89,100156,33243,32158.0,1075,1051.0,30.9,30.57,20,18.0,94,89,The Billions Corporation,/Date(1494831600000)/,True,Dawes,103354,Dawes,/artist/dawes-103354
+90,100167,32795,32570.0,1399,1397.0,23.43,23.31,15,14.0,93,90,Partisan Arts,/Date(1494831600000)/,True,Greensky Bluegrass,33290,Greensky Bluegrass,/artist/greensky-bluegrass-33290
+91,100154,31682,31682.0,808,808.0,39.21,39.21,13,13.0,95,91,The Billions Corporation / High Road Touring,/Date(1494831600000)/,True,Robert Earl Keen,12480,Robert Earl Keen,/artist/robert-earl-keen-12480
+92,100153,31372,31372.0,952,952.0,32.94,32.94,20,20.0,96,92,Partisan Arts / Monterey International,/Date(1494831600000)/,True,Galactic,34868,Galactic,/artist/galactic-34868
+93,100151,31288,31288.0,1329,1329.0,23.54,23.54,24,24.0,97,93,GOA,/Date(1494831600000)/,True,Big Daddy Weave,48676,Big Daddy Weave,/artist/big-daddy-weave-48676
+94,100150,31144,33084.0,948,1003.0,32.82,32.97,21,19.0,92,94,Evenko,/Date(1494831600000)/,True,Philippe Bond,228633,Philippe Bond,/artist/philippe-bond-228633
+95,100161,31093,29855.0,1141,1104.0,27.24,27.03,13,14.0,99,95,Madison House,/Date(1494831600000)/,True,The Revivalists,113331,The Revivalists,/artist/the-revivalists-113331
+96,100148,31058,31058.0,1185,1185.0,26.21,26.21,15,15.0,98,96,Monterey International,/Date(1494831600000)/,True,Lettuce,25061,Lettuce,/artist/lettuce-25061
+97,100147,30550,,1110,,27.51,0.0,12,,New,97,United Talent Agency / WME,/Date(1494831600000)/,True,Less Than Jake / Pepper,24956,Less Than Jake,/artist/less-than-jake-24956
+98,100145,29742,29742.0,784,784.0,37.9,37.9,15,15.0,100,98,International Music Network,/Date(1494831600000)/,True,Ladysmith Black Mambazo,25542,Ladysmith Black Mambazo,/artist/ladysmith-black-mambazo-25542
+99,100144,29736,,739,,40.19,0.0,32,,New,99,High Road Touring,/Date(1494831600000)/,True,Tommy Emmanuel,4132,Tommy Emmanuel,/artist/tommy-emmanuel-4132
+100,100155,29283,,1284,,22.8,0.0,11,,New,100,Creative Artists Agency,/Date(1494831600000)/,True,Japandroids,92007,Japandroids,/artist/japandroids-92007
